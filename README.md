@@ -3,7 +3,7 @@
 **`Desenvolvedor Iniciante`**
 
 Jovem Aprendiz com um ano de experiência, atuando no setor jurídico, onde desenvolvo habilidades administrativas e de suporte, como organização de processos e documentação. Busco expandir meu conhecimento e contribuir com dedicação e aprendizado constante em um ambiente profissional, especialmente na área de tecnologia, onde estou me especializando em Desenvolvimento de Sistemas e estudando linguagens como Python, JavaScript. <br>
-[Instagram](https://www.instagram.com/iamleu1/) | [Linkedin]([https://www.linkedin.com/in/alessandrotorquato/](https://www.linkedin.com/in/alessandrodacosta/))
+[Instagram](https://www.instagram.com/iamleu1/) | [Linkedin](https://www.linkedin.com/in/alessandrodacosta/)
 
 
 
